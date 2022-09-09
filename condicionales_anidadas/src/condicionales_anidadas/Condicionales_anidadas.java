@@ -30,11 +30,10 @@ public class Condicionales_anidadas {
                 
             }else{
                 if(num>=100 && num<1000){
-                    JOptionPane.showMessageDialog(null, "Tu numero es unidad de millar ");
+                    JOptionPane.showMessageDialog(null, "Tu numero es centena  ");
                 }
             }
         }
-        
         
     }
     
