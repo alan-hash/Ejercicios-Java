@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Areglos_2/Areglos_2.iml" filepath="$PROJECT_DIR$/Areglos_2/Areglos_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arreglos/Arreglos.iml" filepath="$PROJECT_DIR$/Arreglos/Arreglos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalcularEdad/CalcularEdad.iml" filepath="$PROJECT_DIR$/CalcularEdad/CalcularEdad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ciclo_for/Ciclo_for.iml" filepath="$PROJECT_DIR$/Ciclo_for/Ciclo_for.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Condicional_If_Else/Condicional_If_Else.iml" filepath="$PROJECT_DIR$/Condicional_If_Else/Condicional_If_Else.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DoWhile_Promedio/DoWhile_Promedio.iml" filepath="$PROJECT_DIR$/DoWhile_Promedio/DoWhile_Promedio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Do_While/Do_While.iml" filepath="$PROJECT_DIR$/Do_While/Do_While.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ej_Palindromo/Ej_Palindromo.iml" filepath="$PROJECT_DIR$/Ej_Palindromo/Ej_Palindromo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicio_Arreglo/Ejercicio_Arreglo.iml" filepath="$PROJECT_DIR$/Ejercicio_Arreglo/Ejercicio_Arreglo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Ejercicios-Java.iml" filepath="$PROJECT_DIR$/.idea/Ejercicios-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/For_Each/For_Each.iml" filepath="$PROJECT_DIR$/For_Each/For_Each.iml" />
+      <module fileurl="file://$PROJECT_DIR$/For_Escalera/For_Escalera.iml" filepath="$PROJECT_DIR$/For_Escalera/For_Escalera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HolaMundo/HolaMundo.iml" filepath="$PROJECT_DIR$/HolaMundo/HolaMundo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Juego_Azar/Juego_Azar.iml" filepath="$PROJECT_DIR$/Juego_Azar/Juego_Azar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumeroRandom_Ciclo/NumeroRandom_Ciclo.iml" filepath="$PROJECT_DIR$/NumeroRandom_Ciclo/NumeroRandom_Ciclo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operaciones_Basicas/Operaciones_Basicas.iml" filepath="$PROJECT_DIR$/Operaciones_Basicas/Operaciones_Basicas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operaciones_Math/Operaciones_Math.iml" filepath="$PROJECT_DIR$/Operaciones_Math/Operaciones_Math.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programa1/Programa1.iml" filepath="$PROJECT_DIR$/Programa1/Programa1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwitchCase_String/SwitchCase_String.iml" filepath="$PROJECT_DIR$/SwitchCase_String/SwitchCase_String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Switch_case/Switch_case.iml" filepath="$PROJECT_DIR$/Switch_case/Switch_case.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Volumen_Cilindro/Volumen_Cilindro.iml" filepath="$PROJECT_DIR$/Volumen_Cilindro/Volumen_Cilindro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/While/While.iml" filepath="$PROJECT_DIR$/While/While.iml" />
+      <module fileurl="file://$PROJECT_DIR$/condicionales_anidadas/condicionales_anidadas.iml" filepath="$PROJECT_DIR$/condicionales_anidadas/condicionales_anidadas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/showInputDialog/showInputDialog.iml" filepath="$PROJECT_DIR$/showInputDialog/showInputDialog.iml" />
+    </modules>
+  </component>
+</project>
