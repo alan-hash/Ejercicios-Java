@@ -10,12 +10,12 @@ public class Main {
 
         Scanner leer=new Scanner(System.in);
         System.out.println("Digita la longitud de filas de la matriz");
-        int registros= leer.nextInt();
+        int filas= leer.nextInt();
         System.out.println("Digita la longitud de columnas de la matriz");
         int col= leer.nextInt();
 
 
-        int matriz[][]= new int[registros][col];
+        int matriz[][]= new int[filas][col];
 
         for (int i = 0; i < matriz.length; i++) {
             System.out.println("ingresa 3 datos de la fila "+(i+1));
