@@ -1,7 +1,12 @@
 package Paquete2;
 
+import Paquete1.Clase2;
+
 public class Clase3 {
     public static void main(String[] args) {
-        System.out.println("clase 3");
+
+
+        Clase2 cl2=new Clase2();
+        System.out.println(cl2.atributo);
     }
 }
