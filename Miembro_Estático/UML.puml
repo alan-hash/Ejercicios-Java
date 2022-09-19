@@ -1,0 +1,9 @@
+@startuml
+class Miembro_Estático.Main {
++ {static} void main(String[])
+}
+class Miembro_Estático.Estatica {
++ String normal
++ {static} String estatico
+}
+@enduml
