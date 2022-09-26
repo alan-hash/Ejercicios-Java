@@ -55,12 +55,7 @@ public class Herencia_POO {
         estudi.MuestraEdad();
         JOptionPane.showMessageDialog(null,"El Promedio de "+ estudi.getNombre()+" corresponde a: "+ promedio);
         
-        
-        
-        
-        
-        
-        
+
     }
     
 }

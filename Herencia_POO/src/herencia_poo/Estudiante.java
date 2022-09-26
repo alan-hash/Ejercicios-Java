@@ -1,9 +1,9 @@
 package herencia_poo;
 
 
-import herencia.Persona;
+import herencia_poo.Persona;
 import com.sun.xml.internal.bind.v2.runtime.output.SAXOutput;
-import herencia.Persona;
+import herencia_poo.Persona;
 
 public class Estudiante extends Persona {
 
