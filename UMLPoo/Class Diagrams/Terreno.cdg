@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassDiagram name="Terreno">
+  <ClassDiagramComponents>
+    <Class name="Terreno" package="" visibility="public" isAbstract="true" xPosition="356.0" yPosition="72.0">
+      <Fields>
+        <Field name="numeroLados" type="int" visibility="protected"/>
+      </Fields>
+      <Constructors/>
+      <Methods>
+        <Method name="toString" returnType="String" visibility="public"/>
+        <Method name="area" returnType="double" visibility="public"/>
+      </Methods>
+    </Class>
+    <Class name="Rectangulo" package="" visibility="public" xPosition="103.0" yPosition="72.0">
+      <Fields>
+        <Field name="lado1" type="double" visibility="private"/>
+        <Field name="lado2" type="double" visibility="private"/>
+      </Fields>
+      <Constructors/>
+      <Methods>
+        <Method name="toString" returnType="String" visibility="public"/>
+        <Method name="area" returnType="double" visibility="public"/>
+      </Methods>
+    </Class>
+    <Class name="Triangulo" package="" visibility="public" xPosition="356.0" yPosition="319.0">
+      <Fields>
+        <Field name="lado1" type="double" visibility="private"/>
+        <Field name="lado2" type="double" visibility="private"/>
+        <Field name="lado3" type="double" visibility="private"/>
+      </Fields>
+      <Constructors/>
+      <Methods>
+        <Method name="toString" returnType="String" visibility="public"/>
+        <Method name="area" returnType="double" visibility="public"/>
+      </Methods>
+    </Class>
+  </ClassDiagramComponents>
+  <ClassDiagramRelations>
+    <IsRelation name="is" source="Triangulo" target="Terreno"/>
+    <IsRelation name="is" source="Rectangulo" target="Terreno"/>
+  </ClassDiagramRelations>
+</ClassDiagram>
