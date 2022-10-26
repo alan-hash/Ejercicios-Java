@@ -61,7 +61,7 @@ public class List_Array {
             System.out.println("Deseas seguir metiendo elementos  S/N");
             respuesta=leer.next().charAt(0);
             
-        }while(respuesta=='s' ||respuesta=='S');
+        }while(respuesta=='s' || respuesta=='S');
         
         System.out.println("Resultados de la lista normal");
         for (int i = 0; i < lista.size(); i++) {  
