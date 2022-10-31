@@ -18,7 +18,6 @@ public abstract class Terreno {
     }
     
     
-    public double area() {
-        throw new UnsupportedOperationException("Not supported yet.");
-    }
+    public abstract double area();
+    
 }
