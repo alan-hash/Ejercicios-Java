@@ -1,4 +1,4 @@
-package Claes;
+package Clases;
 
 public class Triangulo extends Terreno {
 
@@ -27,17 +27,17 @@ public class Triangulo extends Terreno {
         return lado3;
     }
 
-    @Override
+   @Override
     public String toString() {
-        return "Triangulo{" +"Numero de lados:"+toString()+ "lado1=" + lado1 + ", lado2=" + lado2 + ", lado3=" + lado3 + '}';
+        return "Triangulo "+super.toString()+" {" + "lado1=" + lado1 + ", lado2=" + lado2 + ", lado3=" + lado3 + '}';
     }
 
     
     
     public double area() {
-        double s=(this.lado1+this.lado2+this.lado3)/2;
+        double s=(this.lado1+this.lado2+this.lado3) / 2;
         
-        return Math.sqrt(s*(s-this.lado1)*(s-this.lado2)*(s-this.lado3));
+         return   Math.sqrt(   s * ( s -this.lado1 ) *  ( s -this.lado2 ) *  ( s -this.lado3 )  );
         
     }
 }

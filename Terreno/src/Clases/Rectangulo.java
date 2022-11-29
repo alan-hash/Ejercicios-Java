@@ -1,4 +1,4 @@
-package Claes;
+package Clases;
 
 public class Rectangulo extends Terreno {
 
@@ -20,15 +20,12 @@ public class Rectangulo extends Terreno {
         return lado2;
     }
 
-    public int getNumeroLados() {
-        return numeroLados;
-    }
-
     @Override
     public String toString() {
-        return "Rectangulo{"+"Numero de lados="+super.toString()+"lado1=" + this.lado1 + ", lado2=" + this.lado2 + '}';
+        return "Rectangulo{"+super.toString()+"lado1=" + this.lado1 + ", lado2=" + this.lado2 + '}';
     }
-    
+       @Override
+        
  
     public double area() {
         return this.lado1*this.lado2;

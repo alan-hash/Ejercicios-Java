@@ -1,4 +1,4 @@
-package Claes;
+package Clases;
 
 public abstract class Terreno {
 
@@ -16,6 +16,8 @@ public abstract class Terreno {
     public String toString() {
         return "Terreno{" + "numeroLados=" + numeroLados + '}';
     }
+    
+    
     
     
     public abstract double area();
