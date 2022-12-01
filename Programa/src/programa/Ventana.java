@@ -17,13 +17,19 @@ public class Ventana extends JFrame{
   
     public Ventana(String title) throws HeadlessException, InterruptedException {
         super(title);
-        //poner tamaño de ventanas
+        /*individual
         Dimension d=new Dimension(500,500);
         this.setSize(d);
+        this.setLocation(3000, 300);//posicionar ventana 
+        */
        //***************************** 
        this.setDefaultCloseOperation(EXIT_ON_CLOSE);//para cerrar ventanas
-       this.setLocation(3000, 300);//posicionar ventana 
        
+       // pocisionar ventanas / establecer dimensiones(largo y ancho)
+       this.setBounds(300, 300, 500, 500);
+       
+       //Centrar ventana
+       this.setLocationRelativeTo(null);
       
     }
     
